@@ -4,8 +4,9 @@ This is a great website
 
 Updates made on master on github before rebase
 
-## purpose
-this is just an update.
+## Repository purpose
 
-Repository purpose
-this is just an update.
+This will be a change that conflicts
+with whatever is on remote side.
+
+This was edited locally
